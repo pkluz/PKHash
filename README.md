@@ -1,1 +1,5 @@
-# PKAES
+# PKHash
+
+# License
+
+MIT
